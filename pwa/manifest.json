@@ -1,0 +1,29 @@
+{
+    "name": "Viajes en el mundo",
+    "short_name": "Viajes",
+    "description": "Lugares en el mundo para viajar",
+    "background_color": "#1a272c",
+    "theme_color": "#1a272c",
+    "orientation": "portrait",
+    "display": "standalone",
+    "start_url": "./?utm_source=web_app_manifest",
+    "scope": "./",
+    "lang": "es-MX",
+    "icons": [
+        {
+          "src": "../images/pwa/viajar.png",
+          "sizes": "512x512",
+          "type": "image/png"
+        },
+        {
+            "src": "../images/pwa/viajar1.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "../images/pwa/viajar2.png",
+            "sizes": "144x144",
+            "type": "image/png"
+        }
+    ]
+  }
